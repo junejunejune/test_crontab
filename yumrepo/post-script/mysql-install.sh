@@ -1,1 +1,1 @@
-print("mysql-install script edit 1")
+print("mysql-install script edit 2")
